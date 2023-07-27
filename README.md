@@ -10,7 +10,7 @@
 can 데이터 중 필요한 데이터만 수집하여 시각화하는 jupyter notebook
 
 ## CAN통신 Setting
-준비물 : Jetson AGX Xavier, CAN tranciever, 
+필요 장비 : Jetson AGX Xavier, CAN tranciever, 
 ### 하드웨어 설정
   1. 선 연결
   
