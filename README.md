@@ -1,5 +1,4 @@
-# git-tutorial
----------
+# git-tutorial - CAN data processing
 CAN 데이터 처리 및 시각화 협업 내용<br/><br/>
 ## 목차
 * [Information](#Information)<br/><br/>
