@@ -5,6 +5,7 @@
 * [Information](#Information)
 * [CAN Setting](#CAN통신-Setting)
 * [Code Information](#코드-설명)
+* [Run CAN test](#CAN통신-테스트-실행-방법)
 ## Information
 #### can process.ipynb
 can 데이터 중 필요한 데이터만 수집하여 시각화하는 jupyter notebook
@@ -19,7 +20,7 @@ can 데이터 중 필요한 데이터만 수집하여 시각화하는 jupyter no
 #### enable_can.sh
 Jetson AGX Xavier에서 CAN 인터페이스 설정하는 .sh 파일
 
-## 실행 방법
+## CAN통신 테스트 실행 방법
 1. Terminal 1에서 enable_can.sh 파일 실행 
 ``` 
 $ sh enable_can.sh
