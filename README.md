@@ -1,14 +1,12 @@
 # CAN Project
-* CAN통신
-* CAN 데이터 처리 및 시각화 협업 내용
+* Xavier와 Tranciever을 통한 CAN통신
+* CAN 데이터 처리 및 시각화
 ## 목차
 * [Information](#Information)
 * [CAN Setting](#CAN통신-Setting)
 * [Code Information](#코드-설명)
 * [Run CAN test](#CAN통신-테스트-실행-방법)
 ## Information
-#### can process.ipynb
-can 데이터 중 필요한 데이터만 수집하여 시각화하는 jupyter notebook
 
 ## CAN통신 Setting
 필요 장비 : Jetson AGX Xavier, CAN tranciever
@@ -40,6 +38,10 @@ $ cansend can0 123#abcdabcd
 ## 코드 설명
 #### enable_can.sh
 Jetson AGX Xavier에서 CAN 인터페이스 설정하는 .sh 파일
+
+#### can process.ipynb
+can 데이터 중 필요한 데이터만 수집하여 시각화하는 jupyter notebook
+
 
 
 
