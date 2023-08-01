@@ -42,6 +42,8 @@ Jetson AGX Xavier에서 CAN 인터페이스 설정하는 .sh 파일
 #### can process.ipynb
 can 데이터 중 필요한 데이터만 수집하여 시각화하는 jupyter notebook
 
-
+#### String_to_JSON.ipynk
+String으로 되어 있는 내용에서 반복되는 패턴을 찾아 원하는 대로 변경하고
+이를 JSON파일로 저장하는 jupyter notebook
 
 
